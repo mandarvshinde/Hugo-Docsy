@@ -1,5 +1,5 @@
 ---
-title: "Bed and Chair Metrics"
+title: "Task 1"
 date: 2017-01-05
 weight: 2
 description: >
