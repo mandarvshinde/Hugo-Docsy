@@ -30,4 +30,4 @@ If you want to build a static website using Hugo, you will need a rudimentary un
 
 Creating my website the way I wanted required some effort as I am not used to creating webpages in HTML and CSS. However, I am pleased with how the blog turned out and with what I learned along the way.
 
-Website link: [Mandar Shinde Website](https://master--lambent-florentine-410087.netlify.app/)
+Website link: [Mandar Shinde Website](https://mandar-shinde.netlify.app/)
