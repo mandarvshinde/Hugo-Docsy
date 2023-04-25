@@ -1,9 +1,9 @@
 ---
-title: "Docsy Blog"
+title: "My Blog"
 linkTitle: "Blog"
 menu:
   main:
-    weight: 30
+    weight: 40
 ---
 
 
