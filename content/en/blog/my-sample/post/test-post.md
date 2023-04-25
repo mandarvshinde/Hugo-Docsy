@@ -1,7 +1,7 @@
 ---
 slug: doc-as-code
 title: Doc-as-code toolkit
-date: '2012-04-06'
+date: '2023-04-06'
 ---
 
 The use of software development tools and procedures to produce technical documentation is known as "docs as code." It uses the same procedures and equipment as development teams, including issue trackers, automatic tests, and version control systems. It also depends on the creation and administration of small files. The use of documents as code is reasonably simple and accessible. The required equipment is basic, usually free, and as easy to use as text editors. The quickest method to get started with documents as code is to use lightweight formats like Markdown or AsciiDoc because they both let you work with plain text files.
