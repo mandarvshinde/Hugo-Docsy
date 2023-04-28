@@ -23,7 +23,9 @@ One such tool that makes creating a static website very easy is Hugo. Hugo is on
 ## How to create your own static website using Hugo?
 
 You can follow the steps in the Quick Start section on Hugo's website to build your first static website.
-What knowledge you will need to build a website using Hugo?
+
+## What knowledge you will need to build a website using Hugo?
+
 If you want to build a static website using Hugo, you will need a rudimentary understanding of HTML and CSS, and markup language knowledge of Markdown.
 
 ### My Website Blog
